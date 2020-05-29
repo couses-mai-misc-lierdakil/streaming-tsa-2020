@@ -13,6 +13,7 @@ hyperloglog = "*"
 pyprobables = "*"
 statsmodels = "*"
 ipywidgets = "*"
+pmdarima = "*"
 
 [requires]
 python_version = "3.7"
